@@ -1,0 +1,9 @@
+- [ ] zmiana wykresu na linie zamiast kropek
+- [ ] zmiana w `eq` na mniejszy okres czasu niz dany
+- [ ] uzupełnienie `help` o nowe funkcje
+- [ ] organizacja kodu
+- [ ] usunięcie zbednych części 
+- [ ] opisanie komentarzami kodu
+- [ ] usunięcie jakichś zbednych opisów 
+- [ ] naprawienie kolorow wykresu plotext
+- [ ] zrobienie wykresu liniowego w `chart`
